@@ -1,0 +1,32 @@
+{
+  "name": "techno-door-wordpress-theme",
+  "version": "1.0.0",
+  "description": "WordPress theme for Techno Door - Industrial Door Automation Company",
+  "main": "index.php",
+  "scripts": {
+    "dev": "echo 'Development mode - no build process needed'",
+    "build": "echo 'Build process - customize as needed'",
+    "lint": "echo 'Linting - add your preferred linter'",
+    "format": "echo 'Formatting - add your preferred formatter'"
+  },
+  "keywords": [
+    "wordpress",
+    "theme",
+    "rtl",
+    "arabic",
+    "industrial",
+    "doors",
+    "automation"
+  ],
+  "author": "Techno Door",
+  "license": "GPL-2.0-or-later",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}

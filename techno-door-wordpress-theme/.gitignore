@@ -1,0 +1,46 @@
+# Techno Door WordPress Theme .gitignore
+
+# WordPress
+/wp-admin/
+/wp-content/
+/wp-includes/
+/wp-*.php
+/index.php
+/xmlrpc.php
+
+# Theme development files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Node.js (if using build tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build directories
+dist/
+build/
+
+# Local development
+local-config.php
+wp-config-local.php
